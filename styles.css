@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+
+a {
+    background-color: blueviolet;
+    height: 40px;
+    font-size: larger
+}
